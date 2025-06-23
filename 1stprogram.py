@@ -1,9 +1,9 @@
 person = {
-    "Student name" : "Areesha Yaqoob"
-    "Age" "21"
-    "University" "Harvard University"
-    "Department" "Department of History of Art and Architecture" 
-    "Degree" "Bachelor's in Architecture"
+    "Student name" : "Areesha Yaqoob",
+    "Age" : "21",
+    "University" "Harvard University",
+    "Department" : "Department of History of Art and Architecture", 
+    "Degree" : "Bachelor's in Architecture",
 }
  
 person["Duration"] = "4 years" 
