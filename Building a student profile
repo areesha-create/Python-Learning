@@ -1,7 +1,7 @@
 person = {
     "Student name" : "Areesha Yaqoob",
     "Age" : "21",
-    "University" "Harvard University",
+    "University" : "Harvard University",
     "Department" : "Department of History of Art and Architecture", 
     "Degree" : "Bachelor's in Architecture",
 }
@@ -48,4 +48,4 @@ print("Master's takes 2 years.")
 a= 4
 b= 2
 sum = a+b
-print("Total years would be", sum)
+print("Total years would be:", sum)
